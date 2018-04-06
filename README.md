@@ -75,5 +75,8 @@ RCT_EXPORT_METHOD(raiseTestNativeError) {
 }
 ```
 
+# CONTRIBUTORS
+- [Frank Hickman](https://github.com/fhickman)
+
 
 Peace ! ✌🏻🍻
