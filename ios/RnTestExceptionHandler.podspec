@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RnTestExceptionHandler
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/master-atul/rn-test-exception-handler"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
